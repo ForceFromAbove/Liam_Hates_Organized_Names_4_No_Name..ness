@@ -95,7 +95,7 @@ public class Liam_Hates_Organized_Names_4_No_Nameness {
 * Okay,
 *
 * But
-* 
+*
 * Seriously
 *
 * This
@@ -107,5 +107,8 @@ public class Liam_Hates_Organized_Names_4_No_Nameness {
 * Ewing
 *
 * :)
+*
+* PS: Please let me know what you would like to see next time for submission
+* (ie just a .java, or what?) Thanks!
 *
 */

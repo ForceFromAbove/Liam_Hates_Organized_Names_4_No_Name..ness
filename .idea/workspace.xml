@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04d1eb36-1e65-4f84-b87e-733efcb85d0c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Liam_Hates_Organized_Names_4_No_Name..ness.iml" afterPath="$PROJECT_DIR$/Liam_Hates_Organized_Names_4_No_Name..ness.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Liam_Hates_Organized_Names_4_No_Nameness.java" afterPath="$PROJECT_DIR$/src/Liam_Hates_Organized_Names_4_No_Nameness.java" />
     </list>
     <ignored path="Liam_Hates_Organized_Names_4_No_Name..ness.iws" />
@@ -30,10 +26,10 @@
       <file leaf-file-name="Liam_Hates_Organized_Names_4_No_Nameness.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Liam_Hates_Organized_Names_4_No_Nameness.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="97" column="2" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
+            <state relative-caret-position="165">
+              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
               <folding>
-                <element signature="e#0#2039#0" expanded="true" />
+                <element signature="e#0#2155#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -498,10 +494,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Liam_Hates_Organized_Names_4_No_Nameness.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="2" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
+        <state relative-caret-position="165">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
           <folding>
-            <element signature="e#0#2039#0" expanded="true" />
+            <element signature="e#0#2155#0" expanded="true" />
           </folding>
         </state>
       </provider>
